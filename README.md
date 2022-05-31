@@ -1,17 +1,17 @@
 
-# Project Title: Tech Blog
+# Project Title: React Portfolio
 ## Description:
-    Provides a blog for discussing tech
+    Create a personal portfolio using React
 ## What did you learn?
-    The ability to integrate models and routes to provide access to a database with authentication.
+    The ability to develop and utilize React
 ## Installation
-    1. Run "npm i" in the terminal then "node server.js"
+    1. Run "npm i" in the terminal then "npm run start"
 ## Usage
     1. Open the heroku link.
 ## Heroku link to view deployed project
-https://peaceful-dawn-10531.herokuapp.com/
+https://mysterious-brushlands-99597.herokuapp.com/
 ## ScreenShot
-![Demo Video](https://raw.githubusercontent.com/IIMacGyverII/Tech_Blog/main/techBlogSSpng.png)
+![Demo Video](https://github.com/IIMacGyverII/ReactPortfolio/main/screenshot.png)
 ## Demonstration Video(Click to play)
 [![Demo Video](https://img.youtube.com/vi/rWIf1H05UuI/0.jpg)](https://www.youtube.com/watch?v=rWIf1H05UuI)
 ## Credit

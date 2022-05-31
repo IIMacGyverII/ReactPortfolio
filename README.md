@@ -12,8 +12,6 @@
 https://mysterious-brushlands-99597.herokuapp.com/
 ## ScreenShot
 ![Demo Video](https://github.com/IIMacGyverII/ReactPortfolio/raw/main/screenshot.png)
-## Demonstration Video(Click to play)
-[![Demo Video](https://img.youtube.com/vi/rWIf1H05UuI/0.jpg)](https://www.youtube.com/watch?v=rWIf1H05UuI)
 ## Credit
     All my instructors at Northwestern and my study groups.
 ## Licenses Used

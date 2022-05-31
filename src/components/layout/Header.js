@@ -112,7 +112,9 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="#0" href="SectionHeader" onClick={closeMenu}>My work</Link>
+                    <a herf="myWork">
+                      <Link to="#myWork" href="#myWork" onClick={closeMenu}>My work</Link>
+                      </a>
                     </li>
                   </ul>
                   {!hideSignin &&

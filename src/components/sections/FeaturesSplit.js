@@ -60,7 +60,7 @@ const FeaturesSplit = ({
         <div className={innerClasses}>
           <SectionHeader
             data={sectionHeader}
-            id="mywork"
+            id="myWork"
             className="center-content"
           />
           <div className={splitClasses}>
@@ -101,6 +101,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item"
               >
+                <a href="https://github.com/IIMacGyverII/Tech_Blog">
                 <Image
                   src={require("./../../assets/img/ss_techblog.png")}
                   alt="Tech Blog"
@@ -108,6 +109,7 @@ const FeaturesSplit = ({
                   href="https://github.com/IIMacGyverII/Tech_Blog"
                   height={396}
                 />
+                </a>
               </div>
             </div>
 
@@ -139,12 +141,14 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item"
               >
+                  <a href="https://github.com/IIMacGyverII/therecipeforsuccess">
                 <Image
                   src={require("./../../assets/img/ss_therecipeforsuccess.png")}
                   alt="The Recipe for Success"
                   width={528}
                   height={396}
-                />
+                  />
+                  </a>
               </div>
             </div>
 
@@ -178,12 +182,14 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item"
               >
+                <a href="https://github.com/IIMacGyverII/QuickMovieLookup">
                 <Image
                   src={require("./../../assets/img/ss_quickmovielookup.png")}
                   alt="Quick Movie Lookup"
                   width={528}
                   height={396}
                 />
+                </a>
               </div>
             </div>
           </div>

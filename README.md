@@ -8,8 +8,8 @@
     1. Run "npm i" in the terminal then "npm run start"
 ## Usage
     1. Open the heroku link.
-## Heroku link to view deployed project
-https://mysterious-brushlands-99597.herokuapp.com/
+## Link to view deployed project
+https://iimacgyverii.github.io/ReactPortfolio/#/
 ## ScreenShot
 ![Demo Video](https://github.com/IIMacGyverII/ReactPortfolio/raw/main/screenshot.png)
 ## Credit

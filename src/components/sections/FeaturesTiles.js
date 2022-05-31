@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'Services',
-    paragraph: 'I am currently not offering any services but will soon and this list will be populated then. For now, lorem will surfice.'
+    paragraph: 'I am currently not offering any services but will soon and this list will be populated then. For now, lorem will suffice.'
   };
 
   return (

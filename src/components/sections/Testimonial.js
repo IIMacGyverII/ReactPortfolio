@@ -42,7 +42,7 @@ const Testimonial = ({
   const sectionHeader = {
     title: "Customer testimonials",
     paragraph:
-      "I have not had any customers yet but I'm sure if I had they would tell you some great things.  For now, lorem will surfice",
+      "I have not had any customers yet but I'm sure if I had they would tell you some great things.  For now, lorem will suffice",
   };
 
   return (

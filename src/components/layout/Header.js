@@ -113,7 +113,7 @@ const Header = ({
                     )}>
                     <li>
                     <a herf="myWork">
-                      <Link to="#myWork" href="#myWork" onClick={closeMenu}>My work</Link>
+                      <Link to="/#myWork" href="#myWork" pathname="/FeaturesSplit" onClick={closeMenu}>My work</Link>
                       </a>
                     </li>
                   </ul>

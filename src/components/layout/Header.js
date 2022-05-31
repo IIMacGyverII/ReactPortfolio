@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="/FeaturesSplit" onClick={closeMenu}>My work</Link>
+                      <Link to="#0" href="SectionHeader" onClick={closeMenu}>My work</Link>
                     </li>
                   </ul>
                   {!hideSignin &&

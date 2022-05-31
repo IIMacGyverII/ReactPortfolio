@@ -58,21 +58,40 @@ const FeaturesSplit = ({
     <section {...props} className={outerClasses}>
       <div className="container">
         <div className={innerClasses}>
-          <SectionHeader data={sectionHeader} id="mywork" className="center-content" />
+          <SectionHeader
+            data={sectionHeader}
+            id="mywork"
+            className="center-content"
+          />
           <div className={splitClasses}>
-            <div className="split-item">
+            <div
+              className="split-item"
+              onClick
+              href="https://github.com/IIMacGyverII/Tech_Blog"
+            >
               <div
                 className="split-item-content center-content-mobile reveal-from-left"
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Tech Blog
+                  <a href="https://github.com/IIMacGyverII/Tech_Blog">
+                    Tech Blog
+                  </a>
                 </div>
                 <h3 className="mt-0 mb-12">
-                  A simple blog using mySQL and user authentication
+                  <a href="https://github.com/IIMacGyverII/Tech_Blog">
+                    A simple blog using mySQL and user authentication
+                  </a>
                 </h3>
-                <p className="m-0">
-                  Make an account, create posts, view posts and make comments on posts all managed within a mySQL database.  Pretty straight forward.
+                <p
+                  href="https://github.com/IIMacGyverII/Tech_Blog"
+                  className="m-0"
+                >
+                  <a href="https://github.com/IIMacGyverII/Tech_Blog">
+                    Make an account, create posts, view posts and make comments
+                    on posts all managed within a mySQL database. Pretty
+                    straight forward.
+                  </a>
                 </p>
               </div>
               <div
@@ -84,8 +103,9 @@ const FeaturesSplit = ({
               >
                 <Image
                   src={require("./../../assets/img/ss_techblog.png")}
-                  alt="Features split 01"
+                  alt="Tech Blog"
                   width={528}
+                  href="https://github.com/IIMacGyverII/Tech_Blog"
                   height={396}
                 />
               </div>
@@ -97,11 +117,19 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  The Recipe for Success
+                <a href="https://github.com/IIMacGyverII/therecipeforsuccess">
+                  The Recipe for Success</a>
                 </div>
-                <h3 className="mt-0 mb-12">Find your food here</h3>
+                <h3 className="mt-0 mb-12">
+                <a href="https://github.com/IIMacGyverII/therecipeforsuccess">
+                  Find your food here
+                  </a>
+                  </h3>
                 <p className="m-0">
-                  A group project we made to create, view and sort recipes based on common food alergies and perferences.
+                <a href="https://github.com/IIMacGyverII/therecipeforsuccess">
+                  A group project we made to create, view and sort recipes based
+                  on common food alergies and perferences.
+                  </a>
                 </p>
               </div>
               <div
@@ -113,7 +141,7 @@ const FeaturesSplit = ({
               >
                 <Image
                   src={require("./../../assets/img/ss_therecipeforsuccess.png")}
-                  alt="Features split 02"
+                  alt="The Recipe for Success"
                   width={528}
                   height={396}
                 />
@@ -126,11 +154,21 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                <a href="https://github.com/IIMacGyverII/QuickMovieLookup">
                   Quick Movie Lookup
+                  </a>
                 </div>
-                <h3 className="mt-0 mb-12">Find your favorite moives</h3>
+                <h3 className="mt-0 mb-12">
+                <a href="https://github.com/IIMacGyverII/QuickMovieLookup">
+                  Find your favorite moives
+                  </a>
+                  </h3>
                 <p className="m-0">
-                  Another group project utilizing, IMDB API and linking it with youtube API to quickly get the movie info and a trailer for the movie
+                <a href="https://github.com/IIMacGyverII/QuickMovieLookup">
+                  Another group project utilizing, IMDB API and linking it with
+                  youtube API to quickly get the movie info and a trailer for
+                  the movie
+                  </a>
                 </p>
               </div>
               <div
@@ -142,7 +180,7 @@ const FeaturesSplit = ({
               >
                 <Image
                   src={require("./../../assets/img/ss_quickmovielookup.png")}
-                  alt="Features split 03"
+                  alt="Quick Movie Lookup"
                   width={528}
                   height={396}
                 />

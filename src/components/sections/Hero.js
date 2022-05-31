@@ -67,7 +67,7 @@ const Hero = ({
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                As of may 2022, I am currently attending Northwestern
+                As of June 2022, I am currently attending Northwestern
                 University. I am learning full stack development including,
                 html, CSS, JavaScript, SQL and more. I will be completeing
                 school in June and will be a certified full stack developer.

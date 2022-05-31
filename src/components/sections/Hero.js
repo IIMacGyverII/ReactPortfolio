@@ -62,7 +62,7 @@ const Hero = ({
             >
               Hello! <span className="text-color-primary">I'm Joshua</span>
             </h1>
-            <div className="container-xs">
+            <div className="container-s">
               <p
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
@@ -71,9 +71,10 @@ const Hero = ({
                 University. I am learning full stack development including,
                 html, CSS, JavaScript, SQL and more. I will be completeing
                 school in June and will be a certified full stack developer. The
-                profile page you see here was made as a project to learn React.
-                It will likely not be my full professional portfolio. If you'd
-                like to contact me, please do so via linked in.
+                profile page you see here was made as a project to learn and
+                demonstrate React. It will likely not be my full professional
+                portfolio. If you would like to contact me, please do so via linked
+                in.
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>

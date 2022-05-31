@@ -70,34 +70,37 @@ const Hero = ({
                 As of June 2022, I am currently attending Northwestern
                 University. I am learning full stack development including,
                 html, CSS, JavaScript, SQL and more. I will be completeing
-                school in June and will be a certified full stack developer.
+                school in June and will be a certified full stack developer. The
+                profile page you see here was made as a project to learn React.
+                It will likely not be my full professional portfolio. If you'd
+                like to contact me, please do so via linked in.
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button
+                  {/* <Button
                     tag="a"
                     color="primary"
                     wideMobile
                     href="https://www.linkedin.com/in/joshua-christianson-843b45a/"
                   >
                     Linkedin
-                  </Button>
-                  <Button
+                  </Button> */}
+                  {/* <Button
                     tag="a"
                     color="dark"
                     wideMobile
                     href="https://github.com/IIMacGyverII"
                   >
                     View on Github
-                  </Button>
-                  <Button
+                  </Button> */}
+                  {/* <Button
                     tag="a"
                     color="primary"
                     wideMobile
                     href="https://raw.githubusercontent.com/IIMacGyverII/ReactPortfolio/main/src/assets/img/Resume-Joshua.pdf"
                   >
                     Download Resume
-                  </Button>
+                  </Button> */}
                 </ButtonGroup>
               </div>
             </div>

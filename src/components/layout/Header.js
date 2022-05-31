@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import classNames from "classnames";
 import { Link } from "react-router-dom";
 import Logo from "./partials/Logo";
+import Button from "../elements/Button";
 
 const propTypes = {
   navPosition: PropTypes.string,
@@ -111,15 +112,39 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}
                   >
+                    <Button
+                    tag="a"
+                    color="dark"
+                    wideMobile
+                    href="https://github.com/IIMacGyverII"
+                  >
+                    View on Github
+                  </Button>
+                  <Button
+                    tag="a"
+                    color="primary"
+                    wideMobile
+                    href="https://www.linkedin.com/in/joshua-christianson-843b45a/"
+                  >
+                    Linkedin
+                  </Button>
+                  <Button
+                    tag="a"
+                    color="primary"
+                    wideMobile
+                    href="https://raw.githubusercontent.com/IIMacGyverII/ReactPortfolio/main/src/assets/img/Resume-Joshua.pdf"
+                  >
+                    Download Resume
+                  </Button>
                     <li>
-                        <Link
+                        {/* <Link
                           to="#myWork"
                           href="#myWork"
                           // pathname="/FeaturesSplit"
                           onClick={closeMenu}
                         >
                           My work
-                        </Link>
+                        </Link> */}
                     </li>
                   </ul>
                   {!hideSignin && (

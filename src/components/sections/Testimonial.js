@@ -67,7 +67,7 @@ const Testimonial = ({
                   </span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
+                    <a href="#0">Full Stack Developer</a>
                   </span>
                 </div>
               </div>
@@ -86,7 +86,7 @@ const Testimonial = ({
                   </span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
+                    <a href="#0">Full Stack Developer</a>
                   </span>
                 </div>
               </div>
@@ -108,7 +108,7 @@ const Testimonial = ({
                   </span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
+                    <a href="#0">Full Stack Developer</a>
                   </span>
                 </div>
               </div>

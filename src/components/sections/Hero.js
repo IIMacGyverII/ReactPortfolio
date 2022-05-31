@@ -90,6 +90,14 @@ const Hero = ({
                   >
                     View on Github
                   </Button>
+                  <Button
+                    tag="a"
+                    color="primary"
+                    wideMobile
+                    href="https://raw.githubusercontent.com/IIMacGyverII/ReactPortfolio/main/src/assets/img/Resume-Joshua.pdf"
+                  >
+                    Download Resume
+                  </Button>
                 </ButtonGroup>
               </div>
             </div>

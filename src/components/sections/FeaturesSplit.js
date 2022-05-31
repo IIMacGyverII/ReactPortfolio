@@ -164,7 +164,7 @@ const FeaturesSplit = ({
                 </div>
                 <h3 className="mt-0 mb-12">
                 <a href="https://github.com/IIMacGyverII/QuickMovieLookup">
-                  Find your favorite moives
+                  Find your favorite movies
                   </a>
                   </h3>
                 <p className="m-0">

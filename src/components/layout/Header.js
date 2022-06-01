@@ -118,7 +118,7 @@ const Header = ({
                     wideMobile
                     href="https://github.com/IIMacGyverII"
                   >
-                    View on Github
+                    Github
                   </Button>
                   <Button
                     tag="a"
@@ -134,7 +134,7 @@ const Header = ({
                     wideMobile
                     href="https://raw.githubusercontent.com/IIMacGyverII/ReactPortfolio/main/src/assets/img/Resume-Joshua.pdf"
                   >
-                    Download Resume
+                    Resume
                   </Button>
                     <li>
                         {/* <Link

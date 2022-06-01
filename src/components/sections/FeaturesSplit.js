@@ -124,7 +124,7 @@ const FeaturesSplit = ({
                 </div>
                 <h3 className="mt-0 mb-12">
                 <a href="https://github.com/IIMacGyverII/therecipeforsuccess">
-                  Find your food here
+                  Discover your food here
                   </a>
                   </h3>
                 <p className="m-0">
